@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id='rxl69'>
+  <IconStyle>
+  <color>ff0000ff</color>
+	<scale>0.5</scale>
+	<Icon>
+	  <href>https://sites.google.com/site/pynetmony/home/iconrxl.png</href>
+	</Icon>
+  </IconStyle>
+</Style>
+<Style id='rxl76'>
+  <IconStyle>
+  <color>ff00a5ff</color>
+	<scale>0.5</scale>
+	<Icon>
+	  <href>https://sites.google.com/site/pynetmony/home/iconrxl.png</href>
+	</Icon>
+  </IconStyle>
+</Style>
+<Style id='rxl80'>
+  <IconStyle>
+  <color>ff00ffff</color>
+	<scale>0.5</scale>
+	<Icon>
+	  <href>https://sites.google.com/site/pynetmony/home/iconrxl.png</href>
+	</Icon>
+  </IconStyle>
+</Style>
+<Style id='rxl92'>
+  <IconStyle>
+  <color>ff00ff00</color>
+	<scale>0.5</scale>
+	<Icon>
+	  <href>https://sites.google.com/site/pynetmony/home/iconrxl.png</href>
+	</Icon>
+  </IconStyle>
+</Style>
+<Style id='rxl105'>
+  <IconStyle>
+  <color>ffff0000</color>
+	<scale>0.5</scale>
+	<Icon>
+	  <href>https://sites.google.com/site/pynetmony/home/iconrxl.png</href>
+	</Icon>
+  </IconStyle>
+</Style>
+<Style id='rxl113'>
+  <IconStyle>
+  <color>ff000000</color>
+	<scale>0.5</scale>
+	<Icon>
+	  <href>https://sites.google.com/site/pynetmony/home/iconrxl.png</href>
+	</Icon>
+  </IconStyle>
+</Style>
+<Style id='handover'>
+  <IconStyle>
+  <color>ffffffff</color>
+	<scale>4.0</scale>
+	<Icon>
+	  <href>https://sites.google.com/site/pynetmony/home/iconrxl.png</href>
+	</Icon>
+  </IconStyle>
+</Style>
+  <Placemark>
+  <name></name>
+	<description><![CDATA[LABEL: <b>--</b><br/>CELL_ID: <b></b><br/>LAC/TAC: <b>--</b><br/>BAND: <b>--</b><br/>PSC/PCI: <b>--</b><br/>PLMN: <b>----</b><br/>TYPE: <b>LTE+ 3xCA</b><br/>RxLev: <b>-- dBm</b><br/>RxQual: <b>--</b><br/>TIME: <b>20:47:14 2026/05/12</b>]]></description>
+	<styleUrl>#rxl113</styleUrl>
+	<TimeStamp>
+    <when>2026-05-12T20:47:14+02</when>
+   </TimeStamp>
+	 <Point>
+	  <coordinates>-0.229981,39.663213</coordinates>
+	 </Point>
+  </Placemark>
+</Document>
+</kml>

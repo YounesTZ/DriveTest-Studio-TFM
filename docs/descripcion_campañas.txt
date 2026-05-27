@@ -1,0 +1,25 @@
+# Descripción de campañas de medida
+
+Las campañas de medida se realizaron físicamente en Puerto de Sagunto utilizando el operador O2.
+
+Se analizaron tres escenarios tecnológicos:
+
+- 3G / UMTS / H+
+- 4G / LTE
+- 5G / NR
+
+Durante cada recorrido se registraron logs de red mediante aplicaciones móviles y se realizaron pruebas de velocidad periódicas, aproximadamente cada 100 pasos.
+
+La ruta de medida tuvo una longitud aproximada de 2 km.
+
+## Convención de nombres
+
+Los archivos utilizados siguen la siguiente estructura:
+
+Younes_O2_YYYY-MM-DD_3G_GMON.csv  
+Younes_O2_YYYY-MM-DD_3G_GMON.kml  
+Younes_O2_YYYY-MM-DD_3G_CELLLOG.kml  
+Younes_O2_YYYY-MM-DD_3G_CLF.clf  
+Younes_O2_YYYY-MM-DD_3G_SPEEDTEST.csv  
+
+La misma estructura se emplea para 4G y 5G.
